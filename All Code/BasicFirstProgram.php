@@ -1,7 +1,7 @@
 <?php
 
 // 1.echo keyword is use to get stdout (standard output)
-echo "Hello World"; 
+   echo "Hello World"; 
 
 // 2.this is single line comment
 /*  
@@ -9,7 +9,7 @@ echo "Hello World";
    multiLine Comment
 */
 
-  // 4.br tag is use to get new line in PHP
-   <br> 
-     echo "How are you ?";
+// 4.br tag is use to get new line in PHP
+   echo "<br>";
+   echo "How are you ?";
 ?>
