@@ -14,4 +14,10 @@
    echo "How are you ?";
 
 // 5.You can use !(esclanation mark) to get basic template of html.
+
+// 6. Constants.
+   define("var1",100);
+   const var2 = "sadf";
+
+   echo var1 . "<br>" . var2;
 ?>
