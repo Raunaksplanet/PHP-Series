@@ -1,11 +1,15 @@
 <?php
 
-echo "Hello World"; //echo keyword is use to get stdout (standard output)
+// 1.echo keyword is use to get stdout (standard output)
+echo "Hello World"; 
 
-// this is single line comment
+// 2.this is single line comment
 /*  
-  this is
-  multiLine Comment
-
+   3.this is
+   multiLine Comment
 */
+
+  // 4.br tag is use to get new line in PHP
+   <br> 
+     echo "How are you ?";
 ?>
