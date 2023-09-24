@@ -7,4 +7,6 @@
 # Topics
 [• First Program in PHP](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/BasicFirstProgram.php)
 
+[• Variables & DataTypes](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/Variables%26DataTypes.php)
+
 
