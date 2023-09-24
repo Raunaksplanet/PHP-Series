@@ -6,6 +6,6 @@
 
 # Topics
 
-[• First Program in PHP](https://github.com/Raunaksplanet/PHPSeries/blob/main/All%20Code/BasicFirstProgram.php)
+[• First Program in PHP](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/BasicFirstProgram.php)
 
 
