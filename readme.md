@@ -4,7 +4,8 @@
       operators, control statements, functions, Variables, DataType etc.    
 
 
-# Topics
+# All Topics
+## Introduction
 [• First Program in PHP](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/BasicFirstProgram.php)
 
 [• Variables & DataTypes](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/Variables%26DataTypes.php)
@@ -18,6 +19,11 @@
 [• Looping/Iterative Statements](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/loop.php)
 
 [• Switch Statement](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/SwitchCase.php)
+
+## Array & its methods
+[• Array](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/Array.php)
+
+[ • Arrya Function](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/ArrayMethods.php)
 
 
 # PHP Syllabus 
