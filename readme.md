@@ -11,6 +11,14 @@
 
 [• Operators](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/Variables%26DataTypes.php)
 
+## Control Flow Statements
+
+[• Conditional Statements if, else, iflese](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/ifelse.php)
+
+[• Looping/Iterative Statements](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/loop.php)
+
+[• Switch Statement](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/SwitchCase.php)
+
 
 # PHP Syllabus 
     1. Introduction to PHP
