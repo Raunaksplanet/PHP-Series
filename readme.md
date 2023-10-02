@@ -25,6 +25,19 @@
 
 [ • Arrya Function](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/ArrayMethods.php)
 
+## String & its methods
+[• String Function](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/StringManupilation.php)
+
+
+
+
+
+
+
+
+
+
+
 
 # PHP Syllabus 
     1. Introduction to PHP
