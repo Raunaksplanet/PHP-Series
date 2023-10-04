@@ -5,31 +5,24 @@
 
 
 # All Topics
-## Introduction
-[• First Program in PHP](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/BasicFirstProgram.php)
 
-[• Variables & DataTypes](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/Variables%26DataTypes.php)
-
-[• Operators](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/Variables%26DataTypes.php)
-
-## Control Flow Statements
-
-[• Conditional Statements if, else, iflese](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/ifelse.php)
-
-[• Looping/Iterative Statements](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/loop.php)
-
-[• Switch Statement](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/SwitchCase.php)
-
-## Array & its methods
-[• Array](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/Array.php)
-
-[ • Arrya Function](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/ArrayMethods.php)
-
-## String & its methods
-[• String Function](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/StringManupilation.php)
-
-## PHP Form
-[• PHP Form](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/PHPForm.php)
+| Topic | Link |
+|---------------------------------------|-------------------------------------------------------------------------------------------|
+| **Introduction** | |
+| First Program in PHP | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/BasicFirstProgram.php) |
+| Variables & DataTypes | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/Variables%26DataTypes.php) |
+| Operators | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/Variables%26DataTypes.php) |
+|  **Control Flow Statements**  | |
+| Conditional Statements if, else, ifelse | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/ifelse.php) |
+| Looping/Iterative Statements | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/loop.php) |
+| Switch Statement | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/SwitchCase.php) |
+| **Array & its methods** | |
+| Array | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/Array.php) |
+| Array Function | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/ArrayMethods.php) |
+| **String & its methods** | |
+| String Function | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/StringManupilation.php) |
+| **PHP Form** | |
+| PHP Form | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/PHPForm.php) |
 
 
 
