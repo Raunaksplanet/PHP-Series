@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHPForm</title>
-    
+
 </head>
+
 <body>
     <div>
-        <form action="PHPForm.php" method="post">
+        <form action="index.php" method="post">
             <label for="Name">Name:</label><br>
             <input type="text" name="name"><br><br>
             <label for="Password">Password:</label><br>
@@ -18,11 +20,15 @@
     </div>
     <br><br>
     <?php
-    $name = $_POST["name"];
-    $pass = $_POST["pass"];
+    if (isset($_POST["name"]) && isset($_POST["pass"])) {
+        $name = $_POST["name"];
+        $pass = $_POST["pass"];
 
-    echo "Your name is " . $name ."<br>";
-    echo "Your password is " . $pass ."<br>";
+        echo "Your name is " . $name . "<br>";
+        echo "Your password is " . $pass . "<br>";
+    }
     ?>
+
 </body>
+
 </html>
