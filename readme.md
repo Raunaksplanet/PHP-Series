@@ -23,7 +23,7 @@
 | String Function | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/StringManupilation.php) |
 | **PHP Form** | |
 | PHP Form | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/PHPForm.php) |
-
+| Login to DataBase | [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/blob/main/All%20Code/ConnectingToMyPhpAdmin.php) |
 
 
 
