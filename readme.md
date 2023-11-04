@@ -3,7 +3,12 @@
       learning. I'll cover all the Topic like basic format format,
       operators, control statements, functions, Variables, DataType etc.    
 
+# PHP Assignment
+| Topic | Link |
+|---------------------------------------|-------------------------------------------------------------------------------------------|
+| 1-10 |  [🔗 Link](https://github.com/Raunaksplanet/PHP-Series/tree/main/PHP%20Assignment) |
 
+      
 # All Topics
 
 | Topic | Link |
